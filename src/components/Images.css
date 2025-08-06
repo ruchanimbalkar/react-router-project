@@ -1,11 +1,14 @@
 .img-card{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 1rem;
+    justify-items: center;
 }
 img{
     padding: 1rem;
     margin: 1rem;
-    width: 100%;
+    width: 30%;
+    align-self: center;
+    place-self: center;
 
 }
