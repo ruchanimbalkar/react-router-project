@@ -1,0 +1,55 @@
+
+.form-div {
+    background-color: white;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding: 1rem;
+    width: 500px;
+  }
+  input {
+    height: 20px;
+  }
+  .row-format {
+    display: flex;
+    flex-direction: row;
+    gap: 0.4rem;
+  }
+  
+  .form-format {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+    margin: 0.3rem;
+  }
+  
+  label {
+    color: grey;
+    margin: 0.3rem;
+  }
+  
+  span {
+    color: blue;
+  }
+  
+  textarea {
+    margin-bottom: 1rem;
+  }
+  button {
+    background-color: #0c7d66;
+    border-radius: 7px;
+    color: white;
+    text-align: center;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    width: 100%;
+  }
+  
+  .border-outside {
+    border: 0.1rem solid grey;
+    border-radius: 3px;
+    padding: 0.18rem;
+    padding-right: 2rem;
+    width: 100%;
+  }
+  

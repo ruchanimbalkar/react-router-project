@@ -1,7 +1,7 @@
 
 body {
     background-color: green;
-    font-family: "p22-toybox-blocks", sans-serif;
+    font-family: "Libertinus Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
     margin: 0;
@@ -21,6 +21,7 @@ body {
   nav{
    background-color: purple;
    padding: 1rem 2rem;
+   margin-top: 2rem;
   }
   
   nav ul{
@@ -46,3 +47,7 @@ body {
     text-decoration: underline;
   }
 
+
+h2,p{
+  color: violet;
+}
